@@ -2,5 +2,5 @@
 [x] Install react navigation
 [x] Install maps
 [x] Configure Routes
-[ ] Create home
-[ ] Create detail
+[x] Create home
+[x] Create detail
